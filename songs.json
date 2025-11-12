@@ -4,23 +4,23 @@
     "title": "Nidahas Song 01",
     "artist": "Artist A",
     "cover_image": "https://raw.githubusercontent.com/rasara4/dp-project-1/refs/heads/rasara4-patch-1/images/1762925816965.jpg", 
-    "song_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr",
-    "download_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr" 
+    "song_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download",
+    "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download" 
   },
   {
     "id": 2,
     "title": "Sulange Geethaya 02",
     "artist": "Artist B",
     "cover_image": "https://raw.githubusercontent.com/rasara4/dp-project-1/refs/heads/rasara4-patch-1/images/1762925816965.jpg", 
-    "song_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr",
-    "download_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr" 
+    "song_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download",
+    "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download" 
   },
   {
     "id": 3,
     "title": "Nawa Geethaya 03",
     "artist": "Artist C",
     "cover_image": "https://raw.githubusercontent.com/rasara4/dp-project-1/refs/heads/rasara4-patch-1/images/1762925816965.jpg",
-    "song_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr",
-    "download_url": "https://drive.google.com/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr" 
+    "song_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download",
+    "download_url": "https://drive.usercontent.google.com/u/0/uc?id=1CW84x3t2RfR9Fi2qWwrCD3Hf7ur7_fVr&export=download" 
   }
 ]
